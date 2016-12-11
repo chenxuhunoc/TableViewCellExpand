@@ -101,14 +101,8 @@
 		413863EF1DFD1EBE004925D8 /* TableViewCellExpand */ = {
 			isa = PBXGroup;
 			children = (
-				413863F31DFD1EBE004925D8 /* AppDelegate.h */,
-				413863F41DFD1EBE004925D8 /* AppDelegate.m */,
 				413863F61DFD1EBE004925D8 /* ViewController.h */,
 				413863F71DFD1EBE004925D8 /* ViewController.m */,
-				413863F91DFD1EBE004925D8 /* Main.storyboard */,
-				413863FC1DFD1EBE004925D8 /* Assets.xcassets */,
-				413863FE1DFD1EBE004925D8 /* LaunchScreen.storyboard */,
-				413864011DFD1EBE004925D8 /* Info.plist */,
 				413863F01DFD1EBE004925D8 /* Supporting Files */,
 			);
 			path = TableViewCellExpand;
@@ -117,6 +111,12 @@
 		413863F01DFD1EBE004925D8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				413863FC1DFD1EBE004925D8 /* Assets.xcassets */,
+				413863F31DFD1EBE004925D8 /* AppDelegate.h */,
+				413863F41DFD1EBE004925D8 /* AppDelegate.m */,
+				413863F91DFD1EBE004925D8 /* Main.storyboard */,
+				413863FE1DFD1EBE004925D8 /* LaunchScreen.storyboard */,
+				413864011DFD1EBE004925D8 /* Info.plist */,
 				413863F11DFD1EBE004925D8 /* main.m */,
 			);
 			name = "Supporting Files";
